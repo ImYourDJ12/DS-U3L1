@@ -1,0 +1,5 @@
+1. While loops are more for one variable that can't be greater than or less than a 
+certain number or for when something is true or false. Recursion counts both down 
+and up.
+2. Recursion is for when you want things to count down then count back up. It is a 
+bit trickier to use and can cause more problems than while loops.
